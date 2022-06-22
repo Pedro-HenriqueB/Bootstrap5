@@ -1,0 +1,16 @@
+.container {
+	border: 1px solid blue;
+}
+
+.col {
+	height : 50px;
+	border: 1px solid red;
+}
+
+.par {
+	background-color: #ccc;
+}
+
+.impar {
+	background-color: #333;
+}

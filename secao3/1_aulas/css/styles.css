@@ -90,6 +90,8 @@ h1 {
 .col-3 {
 	border: 2px dashed red;
 	height: 100%;
+	margin: 0;
+	
 }
 
 #largura-limitada {
@@ -120,4 +122,19 @@ h1 {
 #offset .col-md-3 {
 	height: 50px;
 	border: 2px solid red;
+}
+
+/* gutter */
+
+#gutter .row {
+	height: 200px;
+}
+
+#gutter .col-6 {
+	margin: auto;
+	height: 50px;
+}
+
+.row p {
+	border: 2px solid green;
 }
