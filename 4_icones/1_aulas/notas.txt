@@ -1,0 +1,1 @@
+Ao utilizar svg nao e necessario importar toda a biblioteca, apenas o codigo do botao ja e o suficiente.
