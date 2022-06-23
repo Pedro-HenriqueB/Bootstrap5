@@ -1,0 +1,21 @@
+.row {
+	border: 1px solid blue;
+}
+
+.col {
+	padding: 25px 10px 25px 10px;
+	height: 100px;
+	border: 1px solid red;
+}
+
+.bi.bi-twitch {
+	color: purple;
+}
+
+.bi.bi-youtube {
+	color: red;
+}
+
+.bi.bi-twitter {
+	color: lightblue;
+}
